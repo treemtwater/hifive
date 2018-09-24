@@ -3,10 +3,12 @@ layout: list
 title: 오시는 길 
 slug: how-to-come 
 menu: true
-order: 3
+order: 4
 description: >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
-  [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
-  Open `_featured_tags/hydejack.md` to edit this text.
+  버스로 오시는 길 (Via bus)
+  : 양재역, 서초문화회관 
+    33, 500-5, 140.400.421.440.441.452.470.471.542.641. 
+
+  지하철로 오시는 길 (Via subway)
+  : 지하철 3호선, 신분당선 양재역 8번출구 오렌지팩토리 뒷편 5층
 ---
