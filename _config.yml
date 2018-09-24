@@ -25,11 +25,10 @@ title:                Hi-Five
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   "Hi-Five! High-class Meeting Room".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "고품격 모임 공간 Hi-Five".
+  "고품격 모임 공간 Hi-Five"
 
 # A list of keywords for your blog
 keywords:              []
@@ -69,7 +68,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/main-bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
