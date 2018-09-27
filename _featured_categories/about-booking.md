@@ -3,7 +3,7 @@ layout: list
 title: 예약안내 
 slug: about-booking
 menu: true
-order: 3
+order: 1
 description: >
 
   예약문의: 010-4664-0407 (박서우) <br>
@@ -39,10 +39,10 @@ description: >
   구분 | 위약금|
   ---- | ----
   취소시 | 예약금|
-  
-<br>
-<br>
-<br>
-<br>
-<br>
+    
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 ---
