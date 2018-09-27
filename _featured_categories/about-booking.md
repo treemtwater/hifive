@@ -6,6 +6,7 @@ menu: true
 order: 3
 description: >
 
+  예약 요금표 (Reservation Fee) <br>
   <br>
   | 가격 (price) | 요금 (기준 1시간)  | <br>
   |--------------|--------------------| <br>
