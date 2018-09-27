@@ -5,8 +5,12 @@ slug: about-facility
 menu: true
 order: 2
 description: >
-    - 접근성 좋은 위치
-    - 유무선 인터넷
-    - 빔프로젝트, 인터넷 출력
+    - 접근성 좋은 위치 <br>
+    - 유무선 인터넷 <br>
+    - 빔프로젝트, 인터넷 출력 <br>
+    - 다양한 모임공간 <br>
+    - 완벽한 방음시설 <br>
+    - 음료공간 제공 <br>
+    <br>
 
 ---
