@@ -15,15 +15,6 @@ description: >
     <br>
     <br>
     <br>
-
-    대표: 박서우 <br>
-    사업자등록번호: [4861700162] <br>
-    통신판매업신고: 제 2015-서울강남-02975호 <br>
-    주소: 서초구 양재동 13-10 5층<br>
-    전화: 010-4664-0407 <br>
-    팩스: 02-6414-0407 <br>
-    개인정보관리책임자: 박서우(seowoo93d17@naver.com) <br>
-    Copyright 2011-2018 All rights reserved. <br>
     <br>
     <br>
     <br>
