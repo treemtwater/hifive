@@ -15,9 +15,7 @@ description: >
     - 음료공간 제공 <br>
     <br>
     <br>
-
   <figure>
     <img src="/assets/img/labtop-computer.jpg" alt="Laptop image" height="380" width="380">
   </figure>
-
 ---
