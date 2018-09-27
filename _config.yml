@@ -9,8 +9,7 @@ url:                   https://treemtwater.github.io
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
 # (with leading /, but without the < >).
-# Use the empty string '' otherwise.
-# For GitHub project sites, this is usually the name of the project,
+# Use the empty string '' otherwise.  # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
 baseurl:               '/hifive'
 
