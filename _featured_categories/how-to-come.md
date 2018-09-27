@@ -7,7 +7,8 @@ order: 4
 description: >
   버스로 오시는 길 (Via bus) <br>
   : 양재역, 서초문화회관 <br>
-    33, 500-5, 140.400.421.440.441.452.470.471.542.641. <br>
+    <span style="color:green">33, 500-5, </span>
+    <span style="color:blue">140.400.421.440.441.452.470.471.542.641. </span> <br>
     <br>
     <br>
   지하철로 오시는 길 (Via subway)  <br>
