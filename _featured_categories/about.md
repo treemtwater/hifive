@@ -15,8 +15,6 @@ description: >
     <br>
     <br>
     <br>
-    <br>
-    <br>
 
     대표: 박서우 <br>
     사업자등록번호: [4861700162] <br>
@@ -26,6 +24,10 @@ description: >
     팩스: 02-6414-0407 <br>
     개인정보관리책임자: 박서우(seowoo93d17@naver.com) <br>
     Copyright 2011-2018 All rights reserved. <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <br>
 
 ---
