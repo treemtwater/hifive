@@ -20,8 +20,6 @@ description: >
   예약문의: 010-4664-0407 (박서우) <br>
   <br>
 
-  <figure>
-    <img src="assets/img/room1.jpg" alt="Room 1" height="380" width="380">
-  </figure>
+  <img src="assets/img/room1.jpg" alt="Room 1" height="380" width="380">
 
 ---
