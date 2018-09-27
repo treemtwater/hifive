@@ -47,9 +47,9 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2011-2018. 'Hi-Five' All rights reserved. >
-  대표: 박서우, 사업자등록번호:[4861700162],  통신판매업신고: 제2015-서울강남-02975호, >
-  주소: 서초구 양재동 13-10 5층, 전화: 010-4664-0407, Fax:02-6414-0407, >
+  © 2011-2018. 'Hi-Five' All rights reserved. <br> 
+  대표: 박서우, 사업자등록번호:[4861700162],  통신판매업신고: 제2015-서울강남-02975호, <br>
+  주소: 서초구 양재동 13-10 5층, 전화: 010-4664-0407, Fax:02-6414-0407, <br>
   개인정보관리책임자: 박서우(seowoo93d17@naver.com)
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -93,7 +93,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
   - scope:
-      path:            hyde
+      path:            about 
     values:
       accent_color:    rgb(38,139,210)
       accent_image:
