@@ -16,5 +16,8 @@ description: >
     <br>
     <br>
 
+  <figure>
+    <img src="/assets/img/labtop-computer.jpg" alt="How To Come" height="380" width="380">
+  </figure>
 
 ---
