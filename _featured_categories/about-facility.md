@@ -5,6 +5,7 @@ slug: about-facility
 menu: true
 order: 2
 description: >
+    **특징(Features)** <br>
     - 접근성 좋은 위치 <br>
     - 유무선 인터넷 <br>
     - 빔프로젝트, 인터넷 출력 <br>
